@@ -1,0 +1,14 @@
+{
+  "author": "Kabir Hemrajani <kabirh@gmail.com>",
+  "name": "likechat",
+  "description": "Chat with people that Like the same things as you!",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~v0.4.8"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
